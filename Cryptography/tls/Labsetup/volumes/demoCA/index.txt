@@ -1,0 +1,7 @@
+V	320601174603Z		1000	unknown	/CN=pinto2022.com
+V	320601174620Z		1001	unknown	/CN=pinto2022.com
+V	320601174817Z		1002	unknown	/CN=pinto2022.com
+V	320601175257Z		1003	unknown	/CN=www.pinto2022.com
+V	320601193031Z		1004	unknown	/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=www.pinto2022.com
+V	320601214311Z		1005	unknown	/CN=www.wayf.up.pt
+V	320601214720Z		1006	unknown	/CN=wayf.up.pt
