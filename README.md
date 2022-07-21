@@ -6,9 +6,9 @@ The following [Seed Labs](https://github.com/seed-labs/seed-labs) write-ups were
 
 | Lab                                                | Corresponding Seed Lab                                                                                                      | Completed          | Report             |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ |
-| [Set-UID Lab](Software/set-uid/set-uid-lab.md)             | [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)   | Partially          | :heavy_check_mark: |
-| [Buffer Overflow Lab](Software/buffer-overflow/buffer-over-lab.md) | [Buffer-Overflow Attack Lab (Set-UID Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Setuid/)    | Partially          | :heavy_check_mark: |
-| [Format String Lab](Software/format-string/format-string-lab.md) | [Format String Vulnerability Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Format_String/)                          | Partially          | :heavy_check_mark: |
+| [Set-UID Lab](Software/set-uid/)                   | [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)   | Partially          | :heavy_check_mark: |
+| [Buffer Overflow Lab](Software/buffer-overflow/)   | [Buffer-Overflow Attack Lab (Set-UID Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Setuid/)    | Partially          | :heavy_check_mark: |
+| [Format String Lab](Software/format-string/)       | [Format String Vulnerability Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Format_String/)                          | Partially          | :heavy_check_mark: |
 | [Shellshock](Software/shellshock/)                 | [Shellshock Vulnerability Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Shellshock/)                                | :heavy_check_mark: | :heavy_check_mark: |
 | [Race Condition](Software/race-condition/)         | [Race Condition Vulnerability Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/)                        | :heavy_check_mark: | :heavy_check_mark: |
 
@@ -28,8 +28,8 @@ The following [Seed Labs](https://github.com/seed-labs/seed-labs) write-ups were
 
 | Lab                                                | Corresponding Seed Lab                                                                                                      | Completed          | Report             |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ |
-| [SQL Injection Lab](Web/SQL_Injection/sql-injection-lab.md)      | [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04//Web/Web_SQL_Injection/)                                 | Partially          | :heavy_check_mark: |
-| [XSS Lab](Web/XSS/XSS-lab.md)                          | [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/)                                | Partially          | :heavy_check_mark: |
+| [SQL Injection Lab](Web/SQL_Injection/)            | [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04//Web/Web_SQL_Injection/)                                 | Partially          | :heavy_check_mark: |
+| [XSS Lab](Web/XSS/)                                | [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/)                                | Partially          | :heavy_check_mark: |
 
 ## System Security
 
@@ -41,7 +41,7 @@ The following [Seed Labs](https://github.com/seed-labs/seed-labs) write-ups were
 
 | Lab                                                                 | Corresponding Seed Lab                                                                                         | Completed           | Report                       |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------- |
-| [PKI Lab](Cryptography/pki/pki-lab.md)                        | [Public-Key Infrastructure (PKI) Lab](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_PKI/)              | :heavy_check_mark:  | :heavy_check_mark:           |
+| [PKI Lab](Cryptography/pki/)                                        | [Public-Key Infrastructure (PKI) Lab](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_PKI/)              | :heavy_check_mark:  | :heavy_check_mark:           |
 | [Secret Key Encryption](Cryptography/secret-key-encryption/)        | [Secret Key Encryption Lab](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_Encryption/)                 | :heavy_check_mark:  | :heavy_check_mark:           |
 | [Padding Oracle Attack](Cryptography/padding-oracle-attack/)        | [Padding Oracle Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_Padding_Oracle/)             | :heavy_check_mark:  | :heavy_check_mark:           |
 | [Hash Length Extension Attack](Cryptography/hash-length-extension/) | [Hash Length Extension Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_Hash_Length_Ext/)     | :heavy_check_mark:  | :heavy_check_mark:           |
